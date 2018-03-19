@@ -1,0 +1,8 @@
+Idle	0-3
+Walk	4-9
+Attack	10-14
+Damage	15-16
+Entry	17-18
+Fall	1-2, 6, 9
+Jump	1-2, 8-9
+Death

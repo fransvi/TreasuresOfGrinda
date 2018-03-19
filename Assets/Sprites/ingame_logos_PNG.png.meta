@@ -1,0 +1,974 @@
+fileFormatVersion: 2
+guid: 9abc9cd3e57afb0469bfd43c7c4f1e6c
+timeCreated: 1494077054
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ingame_logos_PNG_0
+    21300002: ingame_logos_PNG_1
+    21300004: ingame_logos_PNG_2
+    21300006: ingame_logos_PNG_3
+    21300008: ingame_logos_PNG_4
+    21300010: ingame_logos_PNG_5
+    21300012: ingame_logos_PNG_6
+    21300014: ingame_logos_PNG_7
+    21300016: ingame_logos_PNG_8
+    21300018: ingame_logos_PNG_9
+    21300020: ingame_logos_PNG_10
+    21300022: ingame_logos_PNG_11
+    21300024: ingame_logos_PNG_12
+    21300026: ingame_logos_PNG_13
+    21300028: ingame_logos_PNG_14
+    21300030: ingame_logos_PNG_15
+    21300032: ingame_logos_PNG_16
+    21300034: ingame_logos_PNG_17
+    21300036: ingame_logos_PNG_18
+    21300038: ingame_logos_PNG_19
+    21300040: ingame_logos_PNG_20
+    21300042: ingame_logos_PNG_21
+    21300044: ingame_logos_PNG_22
+    21300046: ingame_logos_PNG_23
+    21300048: ingame_logos_PNG_24
+    21300050: ingame_logos_PNG_25
+    21300052: ingame_logos_PNG_26
+    21300054: ingame_logos_PNG_27
+    21300056: ingame_logos_PNG_28
+    21300058: ingame_logos_PNG_29
+    21300060: ingame_logos_PNG_30
+    21300062: ingame_logos_PNG_31
+    21300064: ingame_logos_PNG_32
+    21300066: ingame_logos_PNG_33
+    21300068: ingame_logos_PNG_34
+    21300070: ingame_logos_PNG_35
+    21300072: ingame_logos_PNG_36
+    21300074: ingame_logos_PNG_37
+    21300076: ingame_logos_PNG_38
+    21300078: ingame_logos_PNG_39
+    21300080: ingame_logos_PNG_40
+    21300082: ingame_logos_PNG_41
+    21300084: ingame_logos_PNG_42
+    21300086: ingame_logos_PNG_43
+    21300088: ingame_logos_PNG_44
+    21300090: ingame_logos_PNG_45
+    21300092: ingame_logos_PNG_46
+    21300094: ingame_logos_PNG_47
+    21300096: ingame_logos_PNG_48
+    21300098: ingame_logos_PNG_49
+    21300100: ingame_logos_PNG_50
+    21300102: ingame_logos_PNG_51
+    21300104: ingame_logos_PNG_52
+    21300106: ingame_logos_PNG_53
+    21300108: ingame_logos_PNG_54
+    21300110: ingame_logos_PNG_55
+    21300112: ingame_logos_PNG_56
+    21300114: ingame_logos_PNG_57
+    21300116: ingame_logos_PNG_58
+    21300118: ingame_logos_PNG_59
+    21300120: ingame_logos_PNG_60
+    21300122: ingame_logos_PNG_61
+    21300124: LogoFull
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ingame_logos_PNG_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 622
+        width: 206
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 623
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 622
+        width: 147
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 609
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 609
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 609
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 609
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 609
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 609
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 609
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 609
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 609
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 609
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 609
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 609
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 609
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 472
+        width: 395
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 459
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 459
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 459
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 459
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 459
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 459
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 459
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 459
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 459
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 459
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_27
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 459
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 459
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_29
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 459
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_30
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 340
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 340
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 244
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_33
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 340
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 340
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 297
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_36
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 295
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_37
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 294
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 294
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 296
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 297
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_41
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 298
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 141
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 141
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 141
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_45
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 141
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 141
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_47
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 141
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_48
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 141
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_49
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 141
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 98
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_52
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 95
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 94
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 94
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_55
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 94
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 94
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_57
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 95
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_58
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 97
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_59
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 98
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_60
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 99
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_logos_PNG_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 588
+        width: 485
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LogoFull
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 442
+        width: 446
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
